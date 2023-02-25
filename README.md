@@ -1,16 +1,12 @@
 # talandron_spelec2b_prelims
 
-A new Flutter project.
+SPELEC 2B Prelims: Neon UI Design
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a recreation of the Neon UI Design for my Prelims
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Note
+- Sign Up button in the IntroScreen leads to the HomePage once tap.
+- In the HomePage, the home button in the bottom left navigation bar will go back to the IntroScreen while the plus floating action button will go to the MovieDetail screen.
+- In the MovieDetail, the back button in the top left will lead back to the HomePage.
