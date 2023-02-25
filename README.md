@@ -1,8 +1,8 @@
-# talandron_spelec2b_prelims
+# Talandron, Mark Allen B. SPELEC 2B Prelims
 
 SPELEC 2B Prelims: Neon UI Design
 
-## Getting Started
+## Reason
 
 This is a recreation of the Neon UI Design for my Prelims
 
