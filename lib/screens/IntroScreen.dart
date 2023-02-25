@@ -1,7 +1,6 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:introduction_screen/introduction_screen.dart';
 import 'package:talandron_spelec2b_prelims/components/CustomOutline.dart';
 import 'package:talandron_spelec2b_prelims/constants.dart';
 
